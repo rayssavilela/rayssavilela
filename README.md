@@ -23,6 +23,7 @@ Estou sempre em busca de novos desafios e oportunidades de aprendizado para expa
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e)
 <br>
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=264de4)
+![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=e34f26)
 <br>
 <br>
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=224e68)
