@@ -1,8 +1,6 @@
 Bem Vindo(a)! 
 
-Meu nome é Rayssa Ferreira Vilela, tenho 24 anos e me formei com êxito no curso de Graduação na área de Ciência da Computação. Desenvolvi um projeto para meu Trabalho de Conclusão de Curso (TCC), que consiste em uma proposta de desenvolvimento de um chatbot com integração de inteligência artificial, com foco em reconhecimento de voz como tecnologia assistiva voltada para pessoas com deficiência visual.
-<br><br>
-Esse projeto busca promover a acessibilidade digital e a inclusão, utilizando recursos modernos de interação por voz para facilitar o uso de sistemas computacionais por pessoas com limitações visuais.
+Meu nome é Rayssa Ferreira Vilela, tenho 24 anos e me formei com êxito no curso de Graduação na área de Ciência da Computação. Desenvolvi um projeto para meu Trabalho de Conclusão de Curso (TCC), que consiste em uma proposta de desenvolvimento de um chatbot com integração de inteligência artificial, com foco em reconhecimento de voz como tecnologia assistiva voltada para pessoas com deficiência visual. Esse projeto busca promover a acessibilidade digital e a inclusão, utilizando recursos modernos de interação por voz para facilitar o uso de sistemas computacionais por pessoas com limitações visuais.
 <br><br>
 Atualmente, atuo como Analista de Infraestrutura na Gráfica Marreco, onde sou responsável por gerenciar todo o ambiente tecnológico da empresa. Minhas principais atividades envolvem a estruturação e manutenção da rede, além de garantir a estabilidade e a segurança dos sistemas internos.
 <br><br>
